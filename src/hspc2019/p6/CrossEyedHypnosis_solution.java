@@ -43,6 +43,8 @@ public class CrossEyedHypnosis_solution {
         }
     }
 
+	// Thanks to:
+	// Goutham Vidya Pradhan (https://github.com/gouthampradhan)
     public int countStronglyReversingPairs(int[] nums) {
         List<Pair> list = new ArrayList<Pair>();
         Ftree ft = new Ftree(nums.length);
@@ -79,6 +81,7 @@ public class CrossEyedHypnosis_solution {
         return ans;
     }
 
+    // Binary search from the Internet
     private int binarySearch(List<Pair> list, long n){
         int l = 0, h = list.size() - 1;
         int ans = -1;
