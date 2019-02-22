@@ -31,7 +31,7 @@ public class CountingWithJackJack_solution {
 
 		for (int testCase=0; testCase < numOfTestCases; testCase++) { 
 			System.out.println(
-					"JackJack says: " + speakForJackJack(sc)
+					"Jack-Jack says: " + speakForJackJack(sc)
 					);
 		}
 

@@ -19,7 +19,7 @@ public class CountingWithJackJack {
 
 		for (int testCase=0; testCase < numOfTestCases; testCase++) { 
 			System.out.println(
-					"JackJack says: " + speakForJackJack(sc)
+					"Jack-Jack says: " + speakForJackJack(sc)
 					);
 		}
 
