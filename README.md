@@ -19,13 +19,15 @@ Problems contain both the test skeleton (`ProblemName.java`) given to teams and 
 Secret test inputs and matching outputs that were run through PC2 during the actual competition.  We note that a few problems were graded mostly manually - specifically PX, PX, and PX, due to some issues with diffing their outputs.
 
 ## Acknowledgments
-###Problem Creators, Solution Fixers, and Judges:
+
+Problem Creators, Solution Fixers, and Judges:
 
 * [John P Dickerson](http://jpdickerson.com/)
 * [Tom Goldstein](https://www.cs.umd.edu/~tomg/)
 * [Evan Golub](http://www.cs.umd.edu/~egolub/professional.shtml)
 
-###Motivation for some of the Problems:
+Motivation for some of the Problems and Solutions:
 
 * [LeetCode](https://leetcode.com/)
 * [Goutham Vidya Pradhan](https://github.com/gouthampradhan)
+* [Project Euler](https://projecteuler.net)

@@ -16,6 +16,6 @@ public class Helper {
 	}
 	
 	public static void main(String args[]) {
-		generateArray(0, 10000, 1000);
+		generateArray(0, 500000, 499999);
 	}
 }
