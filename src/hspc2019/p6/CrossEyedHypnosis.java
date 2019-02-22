@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class CrossEyedHypnosis {
 
 	public int countStronglyReversingPairs(int[] nums) {
-		int ans = -1;
 		//YOUR CODE HERE
+		int ans = -1;
+		
 		return ans;
 		//YOUR CODE HERE
 	}
