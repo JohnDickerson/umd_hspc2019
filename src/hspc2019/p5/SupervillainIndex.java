@@ -1,10 +1,10 @@
-package hspc2019.p6;
+package hspc2019.p5;
 
 import java.util.Scanner;
 
-public class CrossEyedHypnosis {
+public class SupervillainIndex {
 
-	public int countStronglyReversingPairs(int[] nums) {
+	public int computeSupervillainIndex(int[] nums) {
 		int ans = -1;
 		//YOUR CODE HERE
 		return ans;
@@ -24,8 +24,8 @@ public class CrossEyedHypnosis {
 				nums[inputIdx] = sc.nextInt();
 			}
 
-			CrossEyedHypnosis ceh = new CrossEyedHypnosis();
-			System.out.println( ceh.countStronglyReversingPairs(nums) );
+			SupervillainIndex si = new SupervillainIndex();
+			System.out.println( si.computeSupervillainIndex(nums) );
 		}
 
 		sc.close();
